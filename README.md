@@ -49,7 +49,7 @@
 
 - Tambahkan css bootstrap didalam tag ```<head>```.
 
-      <!-- File bosstrap CSS -->
+      <!-- File bootstrap CSS -->
       <link rel="stylesheet" href="css/bootstrap.min.css">
       <link rel="stylesheet" href="css/style.css">
 
@@ -59,7 +59,7 @@
 
 - Tambahkan js bootstrap di dalam tag ```<body>``` dipaling bawah sebelum penutup.
 
-      <!-- File Bosstrap JS-->
+      <!-- File Bootstrap JS-->
       <script src="js/bootstrap.min.js"></script>
 
 - atau anda dapat mempaste JS yang sudah disediakan dalam tempalte bootstrap.
@@ -145,6 +145,10 @@
                           </div>
                       </div>
                   </nav>
+   
+ - <b> output </b>
+
+![Screenshot (454)](https://github.com/roswanda11/lab6web/assets/115516632/7b90c118-3c50-46f8-8541-9d16d54003f0)
 
 3.  Lalu tambahkan artikel berikutnya, cari di bootstrap yaitu jumbtron, pada jumbotron ini ada di bagian versi ```4 bosstrap```
    
@@ -155,7 +159,11 @@
                   <p>illo quod natus assumenda, impedit deserunt officiis magnam velit nam provident dolor rerum commodi porro quam.</p>
                   <a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a>
                 </div>
-      
+    
+ - <b> output </b>
+
+ ![image](https://github.com/roswanda11/lab6web/assets/115516632/c09770b4-c343-4f66-83d6-754a62aa6c90)
+     
 4.  Lalu membuat halaman dengan menggunakan ```card``` template pada bootstrap
 
                      <div class="row m-0 py-3">
@@ -197,7 +205,11 @@
                                             </div>
                                         </div>
 
-5. Menambahkan konten artikel
+ - <b> output </b>
+
+ ![image](https://github.com/roswanda11/lab6web/assets/115516632/a0cfd14c-b38e-4da6-a706-1bf988e775a7)
+
+6. Menambahkan konten artikel
 
           <div class="artikel p-3 mt-4">
                               <div class="artikel">
@@ -227,8 +239,12 @@
                               </div>
                           </div>
                       </div>
-      
-6. Selanjutnya menambahkan artikel widget menggunakan ```card``` pada bootstrap     
+
+ - <b> output </b>
+
+![image](https://github.com/roswanda11/lab6web/assets/115516632/07aa240c-6d11-4eab-a397-b6c083c00f6e)
+
+8. Selanjutnya menambahkan artikel widget menggunakan ```card``` pada bootstrap     
 
                         <div class="col-md-3">
                                           <div class="card border border-primary mb-3">
@@ -255,60 +271,64 @@
                                           </div>
                                       </div>
                                   </div>
-                        
-8. Lalu yang terakhir membuat bagian ```footer``` untuk ditaruh di paling bawah layout     
-      
-       <footer class="bg-dark text-white p-3 text-center">&copy; 2023 - Universitas Pelita Bangsa @ Roswanda Nuraini</footer>      
+ - <b> output </b>
 
-9.  Setelah itu kita kasih style baru lalu kita buat dengan file ```style.css```
-
-        @import
-        url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;0,800;1,300;1,400;1,600;1,700;1,800&display=swap');
-        @import
-        url('https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:ital,wght@0,300;0,700;1,300&display=swap');
-        body {
-         line-height:1;
-         font-size:100%;
-         font-family:'Open Sans', sans-serif;
-         color:#5a5a5a;
-        }
-        .active, .nav-link:hover {
-            background-color: rgb(119, 178, 237);
-        }
+![image](https://github.com/roswanda11/lab6web/assets/115516632/15410f2b-176b-4cd2-9b90-e7637f92b538)
+                       
+10. Lalu yang terakhir membuat bagian ```footer``` untuk ditaruh di paling bawah layout     
         
-        nav, .container-fluid {
-            padding: 5px;
-            margin: 0px;
-        }
-        .list-group li {
-            border-bottom: 1px solid #eee;
-        }
-        .list-group li a {
-           padding: 10px 20px;
-           color: #333;
-           display: block;
-           text-decoration: none; 
-        }
-        .list-group li:hover a {
-            background-color: rgb(218, 212, 212) ;
-        }
-        
-        .list-group p {
-            padding: 15px;
-            line-height: 25px;
-        }
-        /* widget box decorasi*/
-        .card-header .title {
-            padding: 10px 16px;
-            background-color: rgb(104, 104, 216);
-            color: white;
-        }
-        .list-group ul {
-            list-style-type: none;
-        }
+         <footer class="bg-dark text-white p-3 text-center">&copy; 2023 - Universitas Pelita Bangsa @ Roswanda Nuraini</footer>   
 
-![image](https://github.com/roswanda11/lab6web/assets/115516632/a11dad22-0b43-4408-90cd-d1ce08cc4034)
+- <b> output </b>
 
+![image](https://github.com/roswanda11/lab6web/assets/115516632/6f807f03-93b4-429c-917c-a998fffce0a0)
+
+11.  Setelah itu kita kasih style baru lalu kita buat dengan file ```style.css```
+
+          @import
+          url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;0,800;1,300;1,400;1,600;1,700;1,800&display=swap');
+          @import
+          url('https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:ital,wght@0,300;0,700;1,300&display=swap');
+          body {
+           line-height:1;
+           font-size:100%;
+           font-family:'Open Sans', sans-serif;
+           color:#5a5a5a;
+          }
+          .active, .nav-link:hover {
+              background-color: rgb(119, 178, 237);
+          }
+          
+          nav, .container-fluid {
+              padding: 5px;
+              margin: 0px;
+          }
+          .list-group li {
+              border-bottom: 1px solid #eee;
+          }
+          .list-group li a {
+             padding: 10px 20px;
+             color: #333;
+             display: block;
+             text-decoration: none; 
+          }
+          .list-group li:hover a {
+              background-color: rgb(218, 212, 212) ;
+          }
+          
+          .list-group p {
+              padding: 15px;
+              line-height: 25px;
+          }
+          /* widget box decorasi*/
+          .card-header .title {
+              padding: 10px 16px;
+              background-color: rgb(104, 104, 216);
+              color: white;
+          }
+          .list-group ul {
+              list-style-type: none;
+          }
       
 ## Melakukan validasi dokumen html ```index.html``` dengan mengakses http://validator.w3.org
 
