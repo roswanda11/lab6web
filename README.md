@@ -209,7 +209,7 @@
 
  ![image](https://github.com/roswanda11/lab6web/assets/115516632/a0cfd14c-b38e-4da6-a706-1bf988e775a7)
 
-6. Menambahkan konten artikel
+5. Menambahkan konten artikel
 
           <div class="artikel p-3 mt-4">
                               <div class="artikel">
@@ -244,7 +244,7 @@
 
 ![image](https://github.com/roswanda11/lab6web/assets/115516632/07aa240c-6d11-4eab-a397-b6c083c00f6e)
 
-8. Selanjutnya menambahkan artikel widget menggunakan ```card``` pada bootstrap     
+6. Selanjutnya menambahkan artikel widget menggunakan ```card``` pada bootstrap     
 
                         <div class="col-md-3">
                                           <div class="card border border-primary mb-3">
@@ -275,7 +275,7 @@
 
 ![image](https://github.com/roswanda11/lab6web/assets/115516632/15410f2b-176b-4cd2-9b90-e7637f92b538)
                        
-10. Lalu yang terakhir membuat bagian ```footer``` untuk ditaruh di paling bawah layout     
+7. Lalu yang terakhir membuat bagian ```footer``` untuk ditaruh di paling bawah layout     
         
          <footer class="bg-dark text-white p-3 text-center">&copy; 2023 - Universitas Pelita Bangsa @ Roswanda Nuraini</footer>   
 
@@ -283,7 +283,7 @@
 
 ![image](https://github.com/roswanda11/lab6web/assets/115516632/6f807f03-93b4-429c-917c-a998fffce0a0)
 
-11.  Setelah itu kita kasih style baru lalu kita buat dengan file ```style.css```
+8.  Setelah itu kita kasih style baru lalu kita buat dengan file ```style.css```
 
           @import
           url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;0,800;1,300;1,400;1,600;1,700;1,800&display=swap');
