@@ -229,7 +229,7 @@
                           </div>
                       </div>
       
-6. Selanjautnya menambahkan artikel widget menggunakan ```card``` pada bosstrap     
+6. Selanjutnya menambahkan artikel widget menggunakan ```card``` pada bosstrap     
 
                         <div class="col-md-3">
                                           <div class="card border border-primary mb-3">
