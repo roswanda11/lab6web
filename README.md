@@ -29,7 +29,7 @@
 ## 1. Install Bootstrap
 
 1. Kunjungi website resmi Bootstrap di https://getbootstrap.com/
-2. Download Bosstrap atau anda bisa memilih menggunakan source code yang sudah disediakan tanpa harus mendownload
+2. Download Bootstrap atau anda bisa memilih menggunakan source code yang sudah disediakan tanpa harus mendownload
 3. Setelah anda mendownload lalu ekstrak file masukan di dalam folder project anda ```lab6_css_framework```
 4. Lalu buat file dengan nama ```index.html```
 5. Lalu masukan struktur Kode html
@@ -146,7 +146,7 @@
                       </div>
                   </nav>
 
-3.  Lalu tambahkan artikel berikutnya, cari di bosstrap yaitu jumbtron, pada jumbotron ini ada di bagian versi ```4 bosstrap```
+3.  Lalu tambahkan artikel berikutnya, cari di bootstrap yaitu jumbtron, pada jumbotron ini ada di bagian versi ```4 bosstrap```
    
        <!--Kontent awal untuk sebuah informasi-->
                 <div class="jumbotron p-4 bg-light">
@@ -156,7 +156,7 @@
                   <a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a>
                 </div>
       
-4.  Lalu membuat halaman dengan menggunakan ```card``` template pada bosstrap
+4.  Lalu membuat halaman dengan menggunakan ```card``` template pada bootstrap
 
                      <div class="row m-0 py-3">
                                     <div class="col-md-9">
@@ -228,7 +228,7 @@
                           </div>
                       </div>
       
-6. Selanjutnya menambahkan artikel widget menggunakan ```card``` pada bosstrap     
+6. Selanjutnya menambahkan artikel widget menggunakan ```card``` pada bootstrap     
 
                         <div class="col-md-3">
                                           <div class="card border border-primary mb-3">
