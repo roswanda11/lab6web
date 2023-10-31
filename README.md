@@ -55,8 +55,7 @@
 
 - atau anda dapat mencopy paste stylesheet bosstrap dalam template.
 
-      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css"
-      integrity="sha384-zCbKRCUGaJDkqS1kPbPd7TveP5iyJE0EjAuZQTgFLD2ylzuqKfdKlfG/eSrtxUkn" crossorigin="anonymous">
+      <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
 
 - Tambahkan js bootstrap di dalam tag ```<body>``` dipaling bawah sebelum penutup.
 
@@ -64,9 +63,9 @@
       <script src="js/bootstrap.min.js"></script>
 
 - atau anda dapat mempaste JS yang sudah disediakan dalam tempalte bootstrap.
-
-      <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
-      <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-fQybjgWLrvvRgtW6bFlB7jaZrFsaBXjsOMm/tB9LTS58ONXgqbR9W8oWht/amnpF" crossorigin="anonymous"></script>
+      
+      <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js" integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r" crossorigin="anonymous"></script>
+      <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.min.js" integrity="sha384-BBtl+eGJRgqQAUMxJ7pMwbEyER4l1g+O15P+16Ep7Q9Q+zqX6gSbd85u4mG4QzX+" crossorigin="anonymous"></script>
 
 - Template HTML5 pada bootstrap
 
@@ -307,7 +306,10 @@
         .list-group ul {
             list-style-type: none;
         }
+
+![image](https://github.com/roswanda11/lab6web/assets/115516632/87552642-400a-4ae3-87ef-750f4fa46e8a)
+
       
-# Melakukan validasi dokumen html ```index.html``` dengan mengakses http://validator.w3.org
+## Melakukan validasi dokumen html ```index.html``` dengan mengakses http://validator.w3.org
 
 ![image](https://github.com/roswanda11/lab6web/assets/115516632/8e1dab7d-75fb-47d4-9d72-49f8444dd59d)
