@@ -248,18 +248,19 @@
                                               </div>
                                               <ul class="list-group list-group-flush">
                                                   <li class="list-group-item">
-                                                      Vestibulum lorem elit, iaculis in nisl volutpat, malesuada tincidunt arcu. Proin in leo fringilla, vestibulum mi porta,                                                       faucibus felis. Integer pharetra est nunc, nec pretium nunc pretium ac.
+                                                      Vestibulum lorem elit, iaculis in nisl volutpat, malesuada tincidunt arcu. Proin in leo fringilla, vestibulum mi porta,
+                                                     faucibus felis. Integer pharetra est nunc, nec pretium nunc pretium ac.
                                                   </li>
                                               </ul>
                                           </div>
                                       </div>
                                   </div>
                         
-7. Lalu yang terakhir membuat bagian ```footer``` untuk ditaruh di paling bawah layout     
+8. Lalu yang terakhir membuat bagian ```footer``` untuk ditaruh di paling bawah layout     
       
        <footer class="bg-dark text-white p-3 text-center">&copy; 2023 - Universitas Pelita Bangsa @ Roswanda Nuraini</footer>      
 
-8.  Setelah itu kita kasih style baru lalu kita buat dengan file ```style.css```
+9.  Setelah itu kita kasih style baru lalu kita buat dengan file ```style.css```
 
         @import
         url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;0,800;1,300;1,400;1,600;1,700;1,800&display=swap');
