@@ -71,7 +71,7 @@
 - Template HTML5 pada bootstrap
 
        <!doctype html>
-      <html lang="en">
+      <html lang="zxx">
         <head>
           <!-- Required meta tags -->
           <meta charset="utf-8">
