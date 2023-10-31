@@ -248,8 +248,7 @@
                                               </div>
                                               <ul class="list-group list-group-flush">
                                                   <li class="list-group-item">
-                                                      Lorem ipsum dolor sit, amet consectetur adipisicing elit. Doloremque, vero sapiente.
-                                                      Nesciunt minus, praesentium non molestiae deleniti laboriosam inventore numquam.
+                                                      Vestibulum lorem elit, iaculis in nisl volutpat, malesuada tincidunt arcu. Proin in leo fringilla, vestibulum mi porta,                                                       faucibus felis. Integer pharetra est nunc, nec pretium nunc pretium ac.
                                                   </li>
                                               </ul>
                                           </div>
@@ -307,7 +306,7 @@
             list-style-type: none;
         }
 
-![image](https://github.com/roswanda11/lab6web/assets/115516632/87552642-400a-4ae3-87ef-750f4fa46e8a)
+![image](https://github.com/roswanda11/lab6web/assets/115516632/a11dad22-0b43-4408-90cd-d1ce08cc4034)
 
       
 ## Melakukan validasi dokumen html ```index.html``` dengan mengakses http://validator.w3.org
